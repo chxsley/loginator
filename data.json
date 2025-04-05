@@ -1,0 +1,17 @@
+{
+    "message": "plus была запущена с параметрами 1 и 5",
+    "place": "",
+    "tag": "info"
+}{
+    "message": "(<function plus at 0x000002046AF3F7E0>, '__main__') завершилась с результатом 6",
+    "place": "",
+    "tag": "info"
+}{
+    "message": "plus opened with parametres 1 and 5",
+    "place": "",
+    "tag": "info"
+}{
+    "message": "(<function plus at 0x0000020E8979F7E0>, '__main__') finish with result 6",
+    "place": "",
+    "tag": "info"
+}
