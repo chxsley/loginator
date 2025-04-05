@@ -17,7 +17,7 @@ class logger:
 
 
 def plus(a, b):
-    logger.info(f'{plus.__name__} opened with parametres {a} and {b}')
+    logger.info(f'{plus.__name__} completed with parameters {a} and {b}')
     res = a + b
     logger.info(f'{plus,__name__} finish with result {res}')
     return res
